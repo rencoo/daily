@@ -5,7 +5,7 @@
 npm run dev启动webpaxk服务
 #### 第三步
 知乎日报的接口地址开启了跨域限制，因此我们需要使用代理。执行node proxy.js启动服务器，项目成功运行
-##Dependencies
+## Dependencies
   	
 	"dependencies": {
 	    "axios": "^0.18.0",
